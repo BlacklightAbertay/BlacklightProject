@@ -1,0 +1,2 @@
+D:\Unity Projects\New Unity Project\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\Unity Projects\New Unity Project\UWP\New Unity Project\New Unity Project.csproj;x86
